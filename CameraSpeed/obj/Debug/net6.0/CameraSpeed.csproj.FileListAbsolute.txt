@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CameraSpeed\obj\Debug\net6.0\CameraSpeed.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CameraSpeed\obj\Debug\net6.0\CameraSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CameraSpeed\obj\Debug\net6.0\CameraSpeed.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CameraSpeed\obj\Debug\net6.0\CameraSpeed.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CameraSpeed\obj\Debug\net6.0\CameraSpeed.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CameraSpeed\bin\Debug\net6.0\CameraSpeed.exe
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CameraSpeed\bin\Debug\net6.0\CameraSpeed.deps.json
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CameraSpeed\bin\Debug\net6.0\CameraSpeed.runtimeconfig.json
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CameraSpeed\bin\Debug\net6.0\CameraSpeed.dll
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CameraSpeed\bin\Debug\net6.0\CameraSpeed.pdb
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CameraSpeed\obj\Debug\net6.0\CameraSpeed.dll
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CameraSpeed\obj\Debug\net6.0\refint\CameraSpeed.dll
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CameraSpeed\obj\Debug\net6.0\CameraSpeed.pdb
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CameraSpeed\obj\Debug\net6.0\CameraSpeed.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CameraSpeed\obj\Debug\net6.0\ref\CameraSpeed.dll
