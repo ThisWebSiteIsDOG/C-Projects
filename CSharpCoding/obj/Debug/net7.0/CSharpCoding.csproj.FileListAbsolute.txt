@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CSharpCoding\bin\Debug\net7.0\CSharpCoding.exe
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CSharpCoding\bin\Debug\net7.0\CSharpCoding.deps.json
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CSharpCoding\bin\Debug\net7.0\CSharpCoding.runtimeconfig.json
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CSharpCoding\bin\Debug\net7.0\CSharpCoding.dll
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CSharpCoding\bin\Debug\net7.0\CSharpCoding.pdb
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CSharpCoding\obj\Debug\net7.0\CSharpCoding.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CSharpCoding\obj\Debug\net7.0\CSharpCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CSharpCoding\obj\Debug\net7.0\CSharpCoding.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CSharpCoding\obj\Debug\net7.0\CSharpCoding.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CSharpCoding\obj\Debug\net7.0\CSharpCoding.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CSharpCoding\obj\Debug\net7.0\CSharpCoding.dll
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CSharpCoding\obj\Debug\net7.0\refint\CSharpCoding.dll
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CSharpCoding\obj\Debug\net7.0\CSharpCoding.pdb
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CSharpCoding\obj\Debug\net7.0\CSharpCoding.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\CSharpCoding\obj\Debug\net7.0\ref\CSharpCoding.dll
