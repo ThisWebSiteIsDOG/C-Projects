@@ -96,12 +96,12 @@ class Program
             }
             else if (guess == answer )
             {
-                Console.WriteLine(" Answer is correct ", answer);
+                Console.WriteLine(" You Won! ", answer);
                 break;
             }
             else if (guess < answer)
             {
-                Console.WriteLine(" Wrong ");
+                Console.WriteLine(" You Lost! ");
             }
 
             else if (guess > answer)
@@ -116,39 +116,26 @@ class Program
 
     public static void ProblemFive()
     {
-        int[] num1 = new int[8];
-        int max, min;
-        Console.WriteLine(" Enter 8 Numbers ");
-        for (int i = 0 ; i < 8; i++)
+        Console.Write("Enter 8 numbers, seperated by commas: ");
+
+        var userInput = Console.ReadLine();
+
+        var numbers = userInput.Split(',');
+
+        var max = Convert.ToInt32(numbers[0]);
+
+        foreach (var str in numbers)
         {
-            Console.WriteLine(" \nEnter number here:\n ");
-            num1[i] = Convert.ToInt32(Console.ReadLine());
-
-        }
-        max = num1[0];
-        min = num1[0];
-        for (int i=0; i<num1.Length;i++) 
-        {
-
-
-
-            if (num1[i] > max)
-            {
-                max = num1[i];
-            }
-
-            if (num1[i] < min)
-            {
-                min = num1[i];
-            }
-            Console.Write("\n{0}  \n", num1[i] );
+            var number = Convert.ToInt32(str);
+            if (number > max)
+                max = number;
         }
 
+        Console.WriteLine("Max is " + max);
 
-
-
-        Console.WriteLine(" Maximum nuber is: {0} ", max);
-        Console.WriteLine(" Minimum nuber is: {0}", min);
     }
-
 }
+
+
+
+
