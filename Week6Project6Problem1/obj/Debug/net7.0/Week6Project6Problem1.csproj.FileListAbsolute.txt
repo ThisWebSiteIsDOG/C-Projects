@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\Week6Project6Problem1\bin\Debug\net7.0\Week6Project6Problem1.exe
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\Week6Project6Problem1\bin\Debug\net7.0\Week6Project6Problem1.deps.json
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\Week6Project6Problem1\bin\Debug\net7.0\Week6Project6Problem1.runtimeconfig.json
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\Week6Project6Problem1\bin\Debug\net7.0\Week6Project6Problem1.dll
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\Week6Project6Problem1\bin\Debug\net7.0\Week6Project6Problem1.pdb
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\Week6Project6Problem1\obj\Debug\net7.0\Week6Project6Problem1.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\Week6Project6Problem1\obj\Debug\net7.0\Week6Project6Problem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\Week6Project6Problem1\obj\Debug\net7.0\Week6Project6Problem1.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\Week6Project6Problem1\obj\Debug\net7.0\Week6Project6Problem1.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\Week6Project6Problem1\obj\Debug\net7.0\Week6Project6Problem1.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\Week6Project6Problem1\obj\Debug\net7.0\Week6Project6Problem1.dll
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\Week6Project6Problem1\obj\Debug\net7.0\refint\Week6Project6Problem1.dll
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\Week6Project6Problem1\obj\Debug\net7.0\Week6Project6Problem1.pdb
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\Week6Project6Problem1\obj\Debug\net7.0\Week6Project6Problem1.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Desktop\ITP Spring\Week6Project6Problem1\obj\Debug\net7.0\ref\Week6Project6Problem1.dll
